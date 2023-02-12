@@ -5,7 +5,8 @@
 EtLibraries present "Ethiopic Font Base", a collection of hundreds of Ethiopic fonts & font families available with license.  
 
 ## Available Fonts
- 
+
+// To be updated...
   
 
 
@@ -32,7 +33,7 @@ Pull requests are welcome. For major changes, please open an issue first
 to discuss what you would like to change.
 
 ## Credit
- - To be updated
+//To be updated...
 
 ## License
 
