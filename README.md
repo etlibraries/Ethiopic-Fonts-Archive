@@ -15,7 +15,7 @@ Option 1 - unzip the folder, select what you prefer and install.
 \
 Option 2 - Select all and open to install all existing font.  
 
-(bash installation future in progress)
+(bash installation feature in progress)
 
 ## Usage & Purpose
 Ethiopic fonts are not that organized & well-known. We are here to fill that gap by building this library to make it accessible for:
