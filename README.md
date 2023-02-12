@@ -26,7 +26,7 @@ Ethiopic fonts are not that organized & well-known. We are here to fill that gap
 - Individual or Enterprise use
 
 ## Contribution, Request & Copyright
-if you have designed your own Typography or own one and would like to get listed here, email us at etlibraries@gmail.com. you can send exclusion request to if you are the rightful owner.
+if you have designed your own Typography or own one and would like to get listed here, email us at etlibraries@gmail.com. you can send exclusion request too if you are the rightful owner.
 
 Pull requests are welcome. For major changes, please open an issue first
 to discuss what you would like to change.
