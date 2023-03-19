@@ -1,40 +1,48 @@
-# Ethiopic-Font-Base
 
-# Greetings ሰላም
+![Logo](https://www.thereporterethiopia.com/wp-content/uploads/2018/04/Art22.jpg)
 
-EtLibraries present "Ethiopic Font Base", a collection of hundreds of Ethiopic fonts & font families available with license.  
 
-## Available Fonts
+# Ethiopic Fonts Archive
 
-// To be updated...
-  
+ሰላም👋 Welcome to the Ethiopic Fonts Archive!
+
+This archive includes a variety of high-quality Ethiopic fonts that are available to you completely free of charge. Whether you're creating a website, designing a poster, or simply typing up a document, these fonts are sure to add a touch of elegance and sophistication to your project.
+
+
+
+
+## Documentation
+List of included fonts with credit (& Version Control)
+- [Full Documentation](https://tobefilled)(Wait for it..)
+
+
+Other Supportive Documents
+- [Ethiopic Fonts](https://tobefilled) (Wait for it..)
 
 
 ## Installation
 
-Option 1 - unzip the folder, select what you prefer and install.
-\
-Option 2 - Select all and open to install all existing font.  
+Installing these fonts is easy! Simply download the font files from this git or clone and follow the instructions for your operating system. If you're not sure how to install fonts on your computer, a quick web search should provide you with step-by-step instructions that are specific to your device.
+## Warning!!!
 
-(bash installation feature in progress)
+While these fonts are free to use, they are still subject to copyright laws. Please be sure to read and abide by the license agreements for each font before using them in any commercial or public-facing projects.
+## Support
 
-## Usage & Purpose
-Ethiopic fonts are not that organized & well-known. We are here to fill that gap by building this library to make it accessible for:
-- Designers
-- Writers
-- Publishers
-- Typography researchers
-- Individual or Enterprise use
+If you have any questions or concerns about the Ethiopic Fonts Archive, please don't hesitate to reach out to us. We're happy to provide assistance with installation, troubleshooting, and anything else you need to ensure that your project looks its best. Additionally, we welcome kind contributions and suggestions of new fonts to add to the archive. If you have a font that you'd like to share with the community, please let us know!
 
-## Contribution, Request & Copyright
-if you have designed your own Typography or own one and would like to get listed here, email us at etlibraries@gmail.com. you can send exclusion request too if you are the rightful owner.
+For support, email etlibraries@gmail.com mentioning "Ethiopic Fonts Archive - Git Repo" on subject section. 
 
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
 
-## Credit
-//To be updated...
+## 🇪🇹 About EtLibraries
+Etlibraries is a groundbreaking project that is dedicated to the digitalization and accessibility of Ethiopian readable, hearable and viewable materials to people of all ages, education backgrounds, and locations, with free access and the intention of preserving history. We believe that the preservation and sharing of these materials is essential to the promotion and celebration of Ethiopian culture and heritage, and that everyone should have the opportunity to access and learn from them.
 
-## License
 
-[sample](https://choosealicense.com/licenses/mit/)
+Our team of experts works tirelessly to make these materials accessible in a variety of formats, including e-books, audiobooks, and videos, to ensure that they can be enjoyed by people of all abilities. We believe that by making these materials available to a wider audience, we can help to bridge gaps between generations and promote a deeper understanding of Ethiopian history and culture. 
+
+To know more about us follow our social media platforms.
+
+
+## Author
+
+- [@mikloool](https://www.github.com/mikloool) from EtLibraries
+
