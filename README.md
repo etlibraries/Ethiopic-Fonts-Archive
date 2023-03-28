@@ -34,7 +34,7 @@ For support, email etlibraries@gmail.com mentioning "Ethiopic Fonts Archive - Gi
 
 
 ## 🇪🇹 About EtLibraries
-Etlibraries is a groundbreaking project that is dedicated to the digitalization and accessibility of Ethiopian readable, hearable and viewable materials to people of all ages, education backgrounds, and locations, with free access and the intention of preserving history. We believe that the preservation and sharing of these materials is essential to the promotion and celebration of Ethiopian culture and heritage, and that everyone should have the opportunity to access and learn from them.
+Etlibraries is the first and a groundbreaking project of EtArchive that is dedicated to digitalization and accessibility of Ethiopian readable, hearable and viewable materials to people of all ages, education backgrounds, and locations, with free access and the intention of preserving history. We believe that the preservation and sharing of these materials is essential to the promotion and celebration of Ethiopian culture and heritage, and that everyone should have the opportunity to access and learn from them.
 
 
 Our team of experts works tirelessly to make these materials accessible in a variety of formats, including e-books, audiobooks, and videos, to ensure that they can be enjoyed by people of all abilities. We believe that by making these materials available to a wider audience, we can help to bridge gaps between generations and promote a deeper understanding of Ethiopian history and culture. 
@@ -44,5 +44,5 @@ To know more about us follow our social media platforms.
 
 ## Author
 
-- [@mikloool](https://www.github.com/mikloool) from EtLibraries
+- [@mikloool](https://www.github.com/mikloool) from EtArchives
 
