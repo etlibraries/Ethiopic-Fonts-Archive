@@ -13,7 +13,7 @@ This archive includes a variety of high-quality Ethiopic fonts that are availabl
 
 ## Documentation
 List of included fonts with credit (& Version Control)
-- [Full Documentation](https://docs.google.com/spreadsheets/d/196dDDuHgoc26nm133ePv3KKSrZVv768PJjPAssYOm1I/edit?usp=sharing)(Updated March 31, 2023)
+- [Full Documentation ](https://docs.google.com/spreadsheets/d/196dDDuHgoc26nm133ePv3KKSrZVv768PJjPAssYOm1I/edit?usp=sharing)(Updated March 31, 2023)
 
 
 Other Supportive Documents
